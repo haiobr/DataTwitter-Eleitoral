@@ -13,6 +13,7 @@ selecionar_candidato = st.sidebar.multiselect('Candidato', candidato_unico, cand
 
 df_candidato_selecionado = df[(df['Candidato'].isin(selecionar_candidato))]
 
+
 st.dataframe(df_candidato_selecionado)
 
 
