@@ -9,8 +9,8 @@
 
 # Etapa 3 - EDA, Storytelling e Visualização
 ### - Bibliotecas utilizadas para Análise de Dados:
-1 - Pandas
-2 - Matplotlib 3.4.3
+1 - Pandas <br>
+2 - Matplotlib 3.4.3 <br>
 3 - Seaborn
 ---
 
